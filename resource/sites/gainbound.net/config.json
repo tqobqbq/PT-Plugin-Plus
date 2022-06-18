@@ -1,0 +1,10 @@
+{
+  "name": "gainbound",
+  "timezoneOffset": "+0800",
+  "schema": "NexusPHP",
+  "url": "https://gainbound.net/",
+  "description": "丐帮",
+  "icon": "https://gainbound.net/favicon.ico",
+  "tags": ["电影", "成人"],
+  "host": "gainbound.net"
+}

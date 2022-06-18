@@ -1,0 +1,10 @@
+{
+  "name": "carpt",
+  "schema": "NexusPHP",
+  "url": "https://carpt.net/",
+  "description": "",
+  "icon": "https://carpt.net/favicon.ico",
+  "tags": [
+  ],
+  "host": "carpt.net"
+}
